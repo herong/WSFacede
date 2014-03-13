@@ -121,7 +121,7 @@ Json格式：
 　　   
 　　	需要在内网服务器的sysconfig.properties文件中增加以下参数：
 　　	
-#通用WS参数初始化，初始化类需要继续InitCommWSParamsAbstract类，s
+#参数初始化，初始化类需要继续InitCommWSParamsAbstract类
 app.comm.webservice.init=
 	
 　　举例：
